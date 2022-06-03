@@ -4,7 +4,7 @@ Please update **list.txt** (via Pull Request)
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 51894 | 5889 | 443 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2021-09-30 02:04:28 |
+| [gin](https://github.com/gin-gonic/gin) | 59894 | 5889 | 443 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance Insights-- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2021-09-30 02:04:28 |
 | [beego](https://github.com/beego/beego) | 27032 | 5316 | 27 | beego is an open-source, high-performance web framework for the Go programming language. | 2021-09-18 15:08:26 |
 | [kit](https://github.com/go-kit/kit) | 21360 | 2192 | 47 | A standard library for microservices. | 2021-09-28 15:01:29 |
 | [echo](https://github.com/labstack/echo) | 20797 | 1841 | 65 | High performance, minimalist Go web framework | 2021-09-26 15:56:43 |
